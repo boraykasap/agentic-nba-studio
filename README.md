@@ -2,7 +2,7 @@
 
 Hackathon entry for the **Agentic Next Best Action (NBA) Studio** challenge: put a virtually unlimited number of personalized NBAs at the fingertips of central sales teams and Client Advisors, generated on the fly through natural language.
 
-Built for the [Finnova Hackathon](https://ai-weeks.ch/events/finnova-hackathon) by team **NextBext**: Kerem Işık, Ozan Erdal and Boray Kasap.
+Built for the [Finnova Hackathon](https://ai-weeks.ch/events/finnova-hackathon) by team **NextBext**: Ozan Erdal, Kerem Işık and Boray Kasap.
 
 ## Why it matters
 
