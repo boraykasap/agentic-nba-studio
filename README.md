@@ -24,8 +24,6 @@ Letting sales teams and advisors create and refine NBAs themselves, in plain lan
 | **Explain** – make every NBA transparent | Each NBA shows its confidence and rationale. New campaigns show the exact filters and trait weights used |
 | **Client Advisor view** | **Customer**: profile, top-3 NBAs, raw accounts/balances/events/transactions, and a chat grounded in that client's data. The live top recommendation updates as the conversation surfaces new information |
 
-**Not built yet:** predictive NBAs (on-the-fly ML models), and the feedback/learning loop (silencing NBAs, tracking campaign outcomes).
-
 ## Run
 
 ```bash
